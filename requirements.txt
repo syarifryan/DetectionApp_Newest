@@ -1,0 +1,11 @@
+pyqt5
+opencv-python
+torch
+torchvision
+requests
+numpy
+pillow
+moviepy
+ultralytics<=8.3.40
+supervision
+roboflow
